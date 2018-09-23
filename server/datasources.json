@@ -1,0 +1,19 @@
+{
+  "db": {
+    "host": "localhost",
+    "port": 27107,
+    "url": "mongodb://localhost:27017/StareIn",
+    "database": "StareIn",
+    "password": "",
+    "name": "db",
+    "user": "",
+    "connector": "mongodb"
+  },
+  "amazonS3": {
+    "name": "amazonS3",
+    "connector": "loopback-component-storage",
+    "provider": "amazon",
+    "key": "RpluKcDWqvQQSwVKp7vdw1zO6pk6a45NHGgIUzOg",
+    "keyId": "AKIAJA2Z3YL5U6TR2D6Q"
+  }
+}
