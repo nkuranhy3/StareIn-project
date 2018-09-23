@@ -1,0 +1,24 @@
+{
+  "name": "starein_client",
+  "version": "1.0.0",
+  "description": "video streaming from amazonS3 and cloudfront",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nkuranhy3/StareIn-project.git"
+  },
+  "author": "Alfred Boateng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nkuranhy3/StareIn-project/issues"
+  },
+  "homepage": "https://github.com/nkuranhy3/StareIn-project#readme",
+  "dependencies": {
+    "aws-cloudfront-sign": "^2.2.0",
+    "nodemon": "^1.18.4"
+  }
+}
