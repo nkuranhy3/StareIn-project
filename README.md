@@ -2,7 +2,7 @@
 
 to start the server
 
-#1. clone the repo
+# 1. clone the repo
 
 run the following to install dependencies
 
@@ -10,15 +10,15 @@ run the following to install dependencies
 
 # 3. Start your localhost mongo database by running  in a different terminal " mongod "
 
-#4 "cd StareIn-project"  && run  " node . "  to start app server server
+# 4 "cd StareIn-project"  && run  " node . "  to start app server server
 
 The server will start and you will see this in the console
 
-#Web server listening at: http://localhost:3000
-#Browse your REST API at http://localhost:3000/explorer
+# Web server listening at: http://localhost:3000
+# Browse your REST API at http://localhost:3000/explorer
 
 
-#Another option"
+# Another option"
 
 
 You can just go to the client folder  there is "index.html " file.
